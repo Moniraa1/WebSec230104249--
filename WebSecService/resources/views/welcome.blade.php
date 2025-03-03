@@ -6,4 +6,5 @@
         welcome to home page
     </div>
     </div>
+    
 @endsection
